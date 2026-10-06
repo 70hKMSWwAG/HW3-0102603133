@@ -1,5 +1,9 @@
 # HW3-0102603133：比较并改进 Ray Serve 路由（挑战三）
 
+> **📌 本仓库已并入主仓库 [`sglang-serving-challenge`](https://github.com/70hKMSWwAG/sglang-serving-challenge)**
+> 的 [`HW3/ray-serve-1gpu/`](https://github.com/70hKMSWwAG/sglang-serving-challenge/tree/main/HW3/ray-serve-1gpu)
+> 目录（git subtree 合并，全部提交历史保留）。本仓库仅作存档，后续更新均在主仓库进行。
+
 ## 1. 实验环境
 
 | 项目 | 版本/配置 |
